@@ -14,6 +14,5 @@ Create a robot that can perform daily tasks that include:
 - Automated detection of fever patients (e.g. with thermal camera)
 - Automated patient monitoring (teleoperated by medical staff)
 - Distribute hand sanitizer/masks
-- Patrol fever patients without mask
 
 My role was to create a Chatbot that will ask specific symptom related questions. It would dictate questions and either take responses via voice or hand movement. Purpose is to reduce contact with the victims of the virus.
