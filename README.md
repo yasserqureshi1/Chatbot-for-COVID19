@@ -15,4 +15,6 @@ Create a robot that can perform daily tasks that include:
 - Automated patient monitoring (teleoperated by medical staff)
 - Distribute hand sanitizer/masks
 
-My role was to create a Chatbot that will ask specific symptom related questions. It would dictate questions and either take responses via voice or hand movement. Purpose is to reduce contact with the victims of the virus.
+In this repository is the Chatbot that will perfrom automated patient monitoring by asking specific symptom related questions. It would dictate questions and either take responses via voice or hand movement. Purpose of this is to reduce contact with the victims of the virus, so to not spread the virus.
+
+The data collected can then be used to understand the patients symptoms throughout the stay at the hospital and thus understand when a patient is recovering. The chatbot includes a timeseries plot as well as sentiment analysis so to understand if the patient is generally feeling better or not.
