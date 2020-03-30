@@ -17,7 +17,3 @@ Create a robot that can perform daily tasks that include:
 - Patrol fever patients without mask
 
 My role was to create a Chatbot that will ask specific symptom related questions. It would dictate questions and either take responses via voice or hand movement. Purpose is to reduce contact with the victims of the virus.
-
-Future developments:
- - From answers, save data and plot over a period to see a time series of the patients health
- - Possible use to act as a first call to understand whether patient has COVID19
