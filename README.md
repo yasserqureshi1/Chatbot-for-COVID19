@@ -11,7 +11,7 @@ We chose to address the problem of overcrowded and pressured hospitals as a resu
 
 ## Our Solution: ##
 Create a robot that can perform daily tasks that include:
-- Sanitize infected areas using UV light
+- Sanitizing infected areas using UV light
 - Automated patient monitoring 
 - Distribute hand sanitizer/masks
 
@@ -29,6 +29,6 @@ Required moduled for hand detection:
 - pyttsx3
 
 ## Details ##
-In this repository is the Chatbot that will perfrom automated patient monitoring by asking specific symptom related questions. It would dictate questions and either take responses via voice or hand movement. Purpose of this is to reduce contact with the victims of the virus, so to not spread the virus.
+This repository contains the Chatbot that will perform automated patient monitoring by asking specific symptom related questions. It would dictate questions and either take responses via voice or hand movement. Purpose is to reduce contact with the victims of the virus, so to reduce the spread.
 
-The data collected can then be used to understand the patients symptoms throughout the stay at the hospital and thus understand when a patient is recovering. The chatbot includes a timeseries plot as well as sentiment analysis so to understand if the patient is generally feeling better or not.
+The data collected can then be used to understand the patients symptoms throughout the stay at the hospital and thus understand when a patient is recovering. The chatbot includes a timeseries plot as well as sentiment analysis so to understand if the patient is generally feeling better or not. This would then be used by doctors to work out when it may be possible to review whether they are fit enough to recover from home.
